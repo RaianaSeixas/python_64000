@@ -1,7 +1,9 @@
 # Título
 
-Texto 
+Texto.
+
 **negrito**
+
 *itálico* 
 
 ## Nível 1
